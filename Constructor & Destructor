@@ -1,0 +1,13 @@
+class User {
+
+  public fuction __ construct
+  
+  (){
+
+    echo "constructed";
+
+  }
+
+}
+
+$n = new User();
