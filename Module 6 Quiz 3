@@ -1,0 +1,5 @@
+Function myFunction($a, $b) {
+
+  echo $a * $b;
+
+}
