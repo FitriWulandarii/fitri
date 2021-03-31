@@ -1,0 +1,20 @@
+class Father {
+ 
+finalfunction useMoney() {
+
+    echo "wisely";
+
+  }
+
+}
+
+
+class Son extends Father {
+
+  public function sayHi() {
+
+    echo "Hi!";
+
+  }
+
+}
