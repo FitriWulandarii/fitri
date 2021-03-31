@@ -1,0 +1,8 @@
+class Student {
+
+  public $name;
+
+  public $age;
+
+  public funcation sayHi() { echo
+  "Hi!"; }
